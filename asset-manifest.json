@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-connect-four-reactjs/static/css/main.8412d131.chunk.css",
+    "main.js": "/praveenorugantitech-connect-four-reactjs/static/js/main.b1e0a08d.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-connect-four-reactjs/static/js/runtime-main.b19bce00.js",
+    "static/js/2.528c6896.chunk.js": "/praveenorugantitech-connect-four-reactjs/static/js/2.528c6896.chunk.js",
+    "index.html": "/praveenorugantitech-connect-four-reactjs/index.html",
+    "static/js/2.528c6896.chunk.js.LICENSE.txt": "/praveenorugantitech-connect-four-reactjs/static/js/2.528c6896.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b19bce00.js",
+    "static/js/2.528c6896.chunk.js",
+    "static/css/main.8412d131.chunk.css",
+    "static/js/main.b1e0a08d.chunk.js"
+  ]
+}
